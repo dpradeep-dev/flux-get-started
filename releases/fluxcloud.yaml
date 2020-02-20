@@ -40,7 +40,5 @@ spec:
           value: "msteams"
         - name: MSTEAMS_URL
           value: "https://outlook.office.com/webhook/754e1a15-9986-4c07-b8c3-92a191c5408e@85c997b9-f494-46b3-a11d-772983cf6f11/IncomingWebhook/b4d0752c4e1044c194a16dec59346e1a/94b19806-37d5-4427-bed0-abade65d377b"        
-        - name: GITHUB_URL
-          value: "https://github.com/dpradeep2605/flux-get-started/"
         - name: LISTEN_ADDRESS
           value: ":3032"
