@@ -2,7 +2,7 @@ apiVersion: apps/v1beta1
 kind: Deployment
 metadata:
   name: dni-function
-  namespace: test
+  namespace: demo
   annotations:
     fluxcd.io/automated: "false"
 spec:
